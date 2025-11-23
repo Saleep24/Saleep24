@@ -16,6 +16,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/saleepshrestha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saleepshrestha" height="30" width="40" /></a>
+<a href="mailto:info@saleepshrestha.com.np" target="_blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/email.svg" height="30" width="40" />
+</a>
+&nbsp;&nbsp;info@saleepshrestha.com.np
 <a href="https://kaggle.com/saleepshrestha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="saleepshrestha" height="30" width="40" /></a>
 </p>
 
@@ -30,7 +34,6 @@
   <a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/></a>
   <a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40"/></a>
   <a><img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" width="60" height="25"/></a>
-  <a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cobol/cobol-original.svg" width="40" height="40"/></a>
   <a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="40" height="40"/></a>
   <a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="40" height="40"/></a>
   <a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/></a>
