@@ -30,9 +30,8 @@
   <a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/></a>
   <a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40"/></a>
   <a><img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" width="60" height="25"/></a>
-  <a><img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" width="60" height="25"/></a>
-  <a><img src="https://raw.githubusercontent.com/sempostma/office365-icons/master/icons/cobol.svg" width="40" height="40"/></a>
-  <a><img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/ibm.svg" width="40" height="40"/></a>
+  <a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cobol/cobol-original.svg" width="40" height="40"/></a>
+
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saleep24&show_icons=true&locale=en&layout=compact" alt="saleep24" /></p>
