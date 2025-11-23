@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Saleep</h1>
+<h1 align="center">Hi, I'm Saleep</h1>
 <h3 align="center">Software Developer Associate @ArroyoDev • IBM Z Student Ambassador</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saleep24&label=Profile%20views&color=0e75b6&style=flat" alt="saleep24" /> </p>
@@ -35,6 +35,12 @@
   <a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/></a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saleep24&show_icons=true&locale=en&layout=compact" alt="saleep24" /></p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=saleep24&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saleep24&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF" height="180" alt="languages graph"  />
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saleep24&" alt="saleep24" /></p>
+<div align="center">
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saleep24&theme=react&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="streak graph" />
+</div>
