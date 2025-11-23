@@ -5,11 +5,11 @@
 
 ### About Me
 
-- Working as a **Software Development Associate at ArroyoDev**, building illumibot, AI projection mapping
-- IBM Z **Student Ambassador**, mainframe, COBOL, JCL
-- Experienced in **full-stack development, backend automation, APIs, and AI-powered workflows**  
+- Software Development Associate at ArroyoDev, illumibot, AI projection mapping
+- IBM Z Student Ambassador
+- Experienced in **full-stack development, backend automation, APIs**  
 - Portfolio: **https://saleepshrestha.com.np**  
-- Open to opportunities in **software engineering, mainframe, full-stack, Agentic AI and Systematic Trading**  
+- Open to opportunities in **software dev, mainframe, full-stack, Agentic AI and Systematic Trading**  
 - Email: **info@saleepshrestha.com.np**
 
 
