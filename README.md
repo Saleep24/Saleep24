@@ -5,8 +5,8 @@
 
 ### About Me
 
-- Working as a **Software Development Associate at ArroyoDev**, building features for the Illumibot, AI projection mapping platform  
-- IBM Z **Student Ambassador**, leading mainframe workshops, COBOL learning groups, and campus events
+- Working as a **Software Development Associate at ArroyoDev**, building illumibot, AI projection mapping
+- IBM Z **Student Ambassador**, mainframe, COBOL, JCL
 - Experienced in **full-stack development, backend automation, APIs, and AI-powered workflows**  
 - Portfolio: **https://saleepshrestha.com.np**  
 - Open to opportunities in **software engineering, mainframe, full-stack, Agentic AI and Systematic Trading**  
@@ -29,10 +29,10 @@
   <a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/></a>
   <a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/></a>
   <a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40"/></a>
-  <a><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/></a>
-  <a><img src="https://seeklogo.com/images/F/flutter-logo-5086DD11C5-seeklogo.com.png" width="40" height="40"/></a>
-  <a><img src="https://www.vectorlogo.zone/logos/twilio/twilio-icon.svg" width="40" height="40"/></a>
   <a><img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" width="60" height="25"/></a>
+  <a><img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" width="60" height="25"/></a>
+  <a><img src="https://raw.githubusercontent.com/sempostma/office365-icons/master/icons/cobol.svg" width="40" height="40"/></a>
+  <a><img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/ibm.svg" width="40" height="40"/></a>
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saleep24&show_icons=true&locale=en&layout=compact" alt="saleep24" /></p>
